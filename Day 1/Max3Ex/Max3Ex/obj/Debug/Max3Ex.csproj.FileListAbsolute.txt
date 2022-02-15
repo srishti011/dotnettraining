@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\CPG\Day 1\Max3Ex\Max3Ex\bin\Debug\Max3Ex.exe.config
+C:\Users\HP\Documents\CPG\Day 1\Max3Ex\Max3Ex\bin\Debug\Max3Ex.exe
+C:\Users\HP\Documents\CPG\Day 1\Max3Ex\Max3Ex\bin\Debug\Max3Ex.pdb
+C:\Users\HP\Documents\CPG\Day 1\Max3Ex\Max3Ex\obj\Debug\Max3Ex.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\CPG\Day 1\Max3Ex\Max3Ex\obj\Debug\Max3Ex.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\CPG\Day 1\Max3Ex\Max3Ex\obj\Debug\Max3Ex.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CPG\Day 1\Max3Ex\Max3Ex\obj\Debug\Max3Ex.exe
+C:\Users\HP\Documents\CPG\Day 1\Max3Ex\Max3Ex\obj\Debug\Max3Ex.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\CPG\Day 1\OutputEx1\OutputEx1\obj\Debug\OutputEx1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\CPG\Day 1\OutputEx1\OutputEx1\obj\Debug\OutputEx1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CPG\Day 1\OutputEx1\OutputEx1\bin\Debug\OutputEx1.exe.config
+C:\Users\HP\Documents\CPG\Day 1\OutputEx1\OutputEx1\bin\Debug\OutputEx1.exe
+C:\Users\HP\Documents\CPG\Day 1\OutputEx1\OutputEx1\bin\Debug\OutputEx1.pdb
+C:\Users\HP\Documents\CPG\Day 1\OutputEx1\OutputEx1\obj\Debug\OutputEx1.exe
+C:\Users\HP\Documents\CPG\Day 1\OutputEx1\OutputEx1\obj\Debug\OutputEx1.pdb

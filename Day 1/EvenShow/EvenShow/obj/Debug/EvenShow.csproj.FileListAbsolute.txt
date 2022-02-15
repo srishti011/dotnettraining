@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\CPG\Day 1\EvenShow\EvenShow\bin\Debug\EvenShow.exe.config
+C:\Users\HP\Documents\CPG\Day 1\EvenShow\EvenShow\bin\Debug\EvenShow.exe
+C:\Users\HP\Documents\CPG\Day 1\EvenShow\EvenShow\bin\Debug\EvenShow.pdb
+C:\Users\HP\Documents\CPG\Day 1\EvenShow\EvenShow\obj\Debug\EvenShow.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\CPG\Day 1\EvenShow\EvenShow\obj\Debug\EvenShow.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\CPG\Day 1\EvenShow\EvenShow\obj\Debug\EvenShow.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CPG\Day 1\EvenShow\EvenShow\obj\Debug\EvenShow.exe
+C:\Users\HP\Documents\CPG\Day 1\EvenShow\EvenShow\obj\Debug\EvenShow.pdb

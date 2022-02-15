@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\CPG\Day 1\PosNeg\PosNeg\obj\Debug\PosNeg.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\CPG\Day 1\PosNeg\PosNeg\obj\Debug\PosNeg.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CPG\Day 1\PosNeg\PosNeg\bin\Debug\PosNeg.exe.config
+C:\Users\HP\Documents\CPG\Day 1\PosNeg\PosNeg\bin\Debug\PosNeg.exe
+C:\Users\HP\Documents\CPG\Day 1\PosNeg\PosNeg\bin\Debug\PosNeg.pdb
+C:\Users\HP\Documents\CPG\Day 1\PosNeg\PosNeg\obj\Debug\PosNeg.exe
+C:\Users\HP\Documents\CPG\Day 1\PosNeg\PosNeg\obj\Debug\PosNeg.pdb
